@@ -24,7 +24,7 @@
     </head>
     <body>
         <div class="container-fluid text-center">
-            <h1>Our heroes</h1>
+            <h1>Pick a character</h1>
         </div>
         <div class="container gallery my-5">
             <div class="row">

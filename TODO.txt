@@ -1,0 +1,2 @@
+1. change the title to 'pick a character'
+2. add docs about installation and setup
